@@ -53,5 +53,24 @@ h1 {
     padding: 5px 30px;
     border-radius: 8px;
 }
+.second-section{
+    display: flex;
+    color: #1f2937;
+    text-align: center;
+    padding-top: 50px;
+}
+.second-section img{
+    width: 150px;
+    height:150px;
+    border: 5px solid #3882f6;
+    border-radius: 8px;
+}
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+
 
 
