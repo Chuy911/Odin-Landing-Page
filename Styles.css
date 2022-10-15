@@ -1,0 +1,25 @@
+div {
+    margin: 0%;
+}
+h1 {
+    background-color: #1f2937;
+    color: white;
+   margin:0;
+   padding: 20px;
+   font-size: 20px;
+   display: flex;
+   gap: 20px;
+   align-items: flex-end;
+}
+#header-logo{
+    margin-right: auto;
+    font-size: 45px;
+}
+.first-section{
+    background-color: #1f2937;
+    padding: 50px;
+    display: flex;
+}
+.first-section div{
+
+}
