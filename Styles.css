@@ -1,3 +1,7 @@
+body{
+margin:0;
+padding: 0;
+}
 div {
     margin: 0%;
 }
@@ -6,20 +10,35 @@ h1 {
     color: white;
    margin:0;
    padding: 20px;
-   font-size: 20px;
+   font-size: 15px;
    display: flex;
    gap: 20px;
    align-items: flex-end;
+   padding-left: 150px;
+   padding-right: 150px;
 }
 #header-logo{
     margin-right: auto;
-    font-size: 45px;
+    font-size: 30px;
 }
 .first-section{
     background-color: #1f2937;
-    padding: 50px;
+    color: white;
+    padding: 100px 150px 100px 150px;
     display: flex;
+    align-items: center;
 }
-.first-section div{
+.first-section p{
+    margin: 5px;
+}
 
+.intro{
+    font-size: 45px;
+    font-weight: bold;
+}
+.blank{
+    width: 800px;
+    height: 200px;
+    background-color: gray;
+    
 }
